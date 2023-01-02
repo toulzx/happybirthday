@@ -1,5 +1,10 @@
 # happybirthday
 
+> 此仓库非 @toulzx 原创！不小心导致没有使用 fork 功能  
+> 作者：[@orangeshinee](https://github.com/orangeshinee)  
+> 仓库地址：[orangeshinee/happybirthday](https://github.com/orangeshinee/happybirthday)  
+> 以下为原仓库 README 内容，特此声明！
+
 :birthday:一个生日倒计时＋祝福的静态页面
 
 [演示](https://orangeshinee.github.io/happybirthday)
