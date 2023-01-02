@@ -35,8 +35,10 @@ const second = 1000,
             }
 
             for (let i = 0; i < document.getElementsByClassName('unit-text').length; i++) {
-              document.getElementsByClassName('unit-text')[i].style.visibility='visible';
+              document.getElementsByClassName('unit-text')[i].style.visibility = 'visible';
             }
+            
+            document.getElementById('but').style.visibility='visible';
             
     
         }, second)
